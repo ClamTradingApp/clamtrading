@@ -1,26 +1,26 @@
 [
     {
       "icon": "file:///android_asset/level_1.webp",
-      "name": "Avatar One",
-      "value": 1000,
+      "name": "Legendary",
+      "value": 10000000,
       "id": 0
     },
     {
       "icon": "file:///android_asset/level_2.webp",
-      "name": "Avatar Two",
-      "value": 1500,
+      "name": "Master",
+      "value": 50000000,
       "id": 1
     },
     {
       "icon": "file:///android_asset/level_3.webp",
-      "name": "Avatar Three",
-      "value": 2000,
+      "name": "Grandmaster",
+      "value": 1000000000,
       "id": 2
     },
     {
       "icon": "file:///android_asset/level_4.webp",
-      "name": "Avatar Four",
-      "value": 2500,
+      "name": "Lord",
+      "value": 10000000000,
       "id": 3
     }
 
